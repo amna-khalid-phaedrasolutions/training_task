@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "amount": "200000", 
+            "account": "123456789", 
+            "pin": "1318", 
+            "name": "amna"
+        }, 
+        {
+            "amount": "540000", 
+            "account": "273191887", 
+            "pin": "1296", 
+            "name": "huzaifa"
+        }, 
+        {
+            "amount": 2003677, 
+            "account": 1456782, 
+            "pin": 8742, 
+            "name": "khizra"
+        }, 
+        {
+            "amount": 192070, 
+            "account": 45678211, 
+            "pin": 2963, 
+            "name": "rameen"
+        }
+    ]
+}
